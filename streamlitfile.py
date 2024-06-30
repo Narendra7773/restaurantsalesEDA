@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import seaborn as sns
+import Seaborn as sns
 import matplotlib.pyplot as plt
 
 st.set_page_config(layout='wide',page_title='Restaurant Sales Analysis')
